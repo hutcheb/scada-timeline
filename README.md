@@ -12,7 +12,6 @@ gantt
         ControlView : controlview, 1987, 1997
         RsView32    :1997, 2009
         RSView Enterprise : 2005, 2012
-        Factory Talk View ME :2012, until 2025
         Factory Talk View SE :2012, until 2025
         FactoryTalk Optix    : 2022, until 2025
     section Citect Technologies
@@ -21,13 +20,16 @@ gantt
     section Invensys plc
         %%(https://en.wikipedia.org/wiki/Wonderware)
         Wonderware :s2, 1987, 2014
-    section Schneider Electric
+    section AVEVA/Schneider
         CitectSCADA :after c1, 2020
         PlantSCADA :until 2025
-        Wonderware :after s2, until 2025
-        %%(Estimates)
-        ClearSCADA :clearscada, 2010, 2018
-        GeoSCADA : after clearscada, until 2025
+        System Platform :after s2, until 2025
+        %%(Don't have dates for Intouch)
+        AVEVA Intouch HMI :after s2, until 2025
+        %%(https://github.com/hutcheb/scada-timeline/issues/1)
+        SCX6 : scx6, 2000, 2010
+        ClearSCADA :clearscada, after scx6, 2018
+        Geo SCADA Expert : after clearscada, until 2025
     section Honeywell
         %%(Estimates)
         PlantScape :plantscape, 1995, 2005
