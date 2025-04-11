@@ -105,8 +105,8 @@ gantt
 ```
 
 ## Status
-I have provided references for most of them, seom of the Yokogawa and Emerson stuff I wasn't able to find any information on.
+I have provided references for most of them, some of the Yokogawa and Emerson stuff I wasn't able to find any information on.
 The wiki references were easy, ideally there would be proper references from each company.
 
 ## Contribution
-Please feel free to raise a PR to get it updated. Always looking for help
+Please feel free to raise a PR or Issue to get it updated. Always looking for help.
