@@ -20,16 +20,32 @@ gantt
     section Invensys plc
         %%(https://en.wikipedia.org/wiki/Wonderware)
         Wonderware :s2, 1987, 2014
-    section AVEVA/Schneider
-        CitectSCADA :after c1, 2020
-        PlantSCADA :until 2025
+    section Metso automation
+        %%(http://ains.etf.rs/Telvent.pdf)
+        %%(No Start Date)
+        Oasys :oasys, 1980, 2003
+    section Telvent
+        %%(https://www.reddit.com/r/SCADA/comments/1jwldin/development_of_scada_systems/)
+        Oasys :oasys_telvent, after oasys, 2011
+    section Serck Controls
+        %(https://www.se.com/uk/en/about-us/company-profile/brands/serck-controls.jsp)
+        SCX6 : scx6_serck, 1961, 2002
+    section SCADAGroup
+        %(https://www.se.com/uk/en/about-us/company-profile/brands/serck-controls.jsp)
+        SCX6 : scx6, after scx6_serck, 2010
+    section Schneider Electric
+        CitectSCADA : se_citect, after c1, 2022
+        Oasys :oasys_se, after oasys_telvent, 2022
+        ClearSCADA :clearscada, after scx6, 2018
+    section AVEVA
+        PlantSCADA : after se_citect, until 2025
         System Platform :after s2, until 2025
         %%(Don't have dates for Intouch)
         AVEVA Intouch HMI :after s2, until 2025
         %%(https://github.com/hutcheb/scada-timeline/issues/1)
-        SCX6 : scx6, 2000, 2010
-        ClearSCADA :clearscada, after scx6, 2018
+        
         Geo SCADA Expert : after clearscada, until 2025
+        AVEVA Enterprise : after oasys_se, until 2025
     section Honeywell
         %%(Estimates)
         PlantScape :plantscape, 1995, 2005
@@ -71,9 +87,8 @@ gantt
         %%(Estimate)
         Movicon Next : 2012, until 2025
     section Yokogawa 
-        %%(No idea)
-        ProSafe-RS: : 1990, 30y
-        FAST/TOOLS : 1990, 30y
+        %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
+        FAST/TOOLS : 1978, until 2025
     section Weatherford
         %%(https://www.weatherford.com/products-and-services/production-and-intervention/production-4-0/iot-scada-platform/)
         %%(No idea)
