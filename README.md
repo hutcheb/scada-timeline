@@ -65,6 +65,8 @@ gantt
     section ABB
         %%(https://de.wikipedia.org/wiki/800xA)
         Ability System 800xA : 2002, until 2025
+        %%(https://new.abb.com/control-systems/symphony-plus)
+        Symphony+ : symphony, 1989, until 2025
     section Inductive Automation
         %%(https://en.wikipedia.org/wiki/Inductive_Automation)
         FactoryPMI : factorypmi, 2003, 2010
