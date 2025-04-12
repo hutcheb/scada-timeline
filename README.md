@@ -137,7 +137,9 @@ gantt
     section Verano
         RTAP : rtap, 1996, 2007
     section Industrial Defender
-        RTAP : after rtap, until 2025    
+        RTAP : after rtap, until 2025
+    section PcVue
+        PcVue : pcvue, 1984, until 2025    
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
