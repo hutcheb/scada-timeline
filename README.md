@@ -33,10 +33,15 @@ gantt
     section SCADAGroup
         %(https://www.se.com/uk/en/about-us/company-profile/brands/serck-controls.jsp)
         SCX6 : scx6, after scx6_serck, 2010
+    section 7 technologies
+        %%(No Start and End Dates)
+        IGSS : igss, 2001, 2011
     section Schneider Electric
         CitectSCADA : se_citect, after c1, 2022
         Oasys :oasys_se, after oasys_telvent, 2022
         ClearSCADA :clearscada, after scx6, 2018
+        %%(No Start and End Dates)
+        IGSS : after igss, until 2025
     section AVEVA
         PlantSCADA : after se_citect, until 2025
         System Platform :after s2, until 2025
