@@ -138,8 +138,10 @@ gantt
         RTAP : rtap, 1996, 2007
     section Industrial Defender
         RTAP : after rtap, until 2025
-    section PcVue
-        PcVue : pcvue, 1984, until 2025    
+    section ARC Group
+        PcVue : pcvue, 1984, until 2025
+    section Codra
+        Panorama E2 : panorama, 1986, until 2025   
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
