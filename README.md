@@ -19,7 +19,7 @@ gantt
         CitectSCADA :c1, 1973, 2006
     section Invensys plc
         %%(https://en.wikipedia.org/wiki/Wonderware)
-        Wonderware :s2, 1987, 2014
+        Wonderware :s2, 1986, 2014
     section Metso automation
         %%(http://ains.etf.rs/Telvent.pdf)
         %%(No Start Date)
@@ -107,7 +107,8 @@ gantt
         Ovation : 2020, until 2025
     section Yokogawa 
         %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
-        FAST/TOOLS : 1978, until 2025
+        FAST/TOOLS : fasttools, 1978, 2021
+        CI Server : after fasttools, until 2025
     section MyScada 
         %%(https://www.myscada.org/?gad_source=1&gclid=CjwKCAjw--K_BhB5EiwAuwYoyt0NUs6PUtTnmHe5BiQ-LWvguB-_bO55AFn8DI5Yvm9XYK23LpdgcBoCVIUQAvD_BwE)
         MySCADA : 2005, until 2025
