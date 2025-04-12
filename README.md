@@ -150,6 +150,10 @@ gantt
     section Codra
         %%(https://www.linkedin.com/showcase/codra-panorama-platform/about/)
         Panorama E2 : panorama, 1986, until 2025   
+    section Survalent
+        %%(https://www.survalent.com/our-promise/)
+        Survalent SCADA : panorama, 1983, until 2025  
+        
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
