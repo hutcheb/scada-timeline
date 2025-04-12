@@ -79,6 +79,8 @@ gantt
     section AspenTech
         %%(https://en.wikipedia.org/wiki/Aspen_Technology)
         AspenTech OSI Monarch : after osi_monach, until 2025
+    section ETM
+        PVSS : pvss, 1985, 2007
     section Siemens
         %%(https://www.renewableenergyworld.com/energy-business/siemens-power-transmission-and-distribution-merges-telegyr-systems-business/)
         %%(No Start Date)
@@ -90,7 +92,7 @@ gantt
         FactoryLink : after factorylink, 2009
         %%(https://en.wikipedia.org/wiki/WinCC)
         WinCC :siemens1, 1996, until 2025
-        WinCC OA :winccoa, 2023, until 2025
+        WinCC OA :winccoa, after pvss, until 2025
     section Intellution
         %%(https://de.wikipedia.org/wiki/Proficy_iFIX)
         iFix : intellutionfix, 1984, 2002
