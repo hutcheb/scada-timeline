@@ -164,6 +164,9 @@ gantt
     section Fultek
         %%(https://www.fultek.com.tr/en/about/)
         WinTr : wintr, 2006, until 2025
+    section  Leeds & Northrup
+        %%(Estimates)
+        Conitel : conitel, 1960, 1980
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
