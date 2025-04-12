@@ -103,6 +103,8 @@ gantt
         DeltaV : 1990, 30y
         %%(Estimate)
         Movicon Next : 2012, until 2025
+        %%(No Start and End Dates)
+        Ovation : 2020, until 2025
     section Yokogawa 
         %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
         FAST/TOOLS : 1978, until 2025
