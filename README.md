@@ -165,7 +165,7 @@ gantt
         %%(https://www.fultek.com.tr/en/about/)
         WinTr : wintr, 2006, until 2025
     section  Leeds & Northrup
-        %%(Estimates)
+        %%(Need to confirm)
         Conitel : conitel, 1960, 1980
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
