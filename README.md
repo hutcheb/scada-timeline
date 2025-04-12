@@ -14,6 +14,7 @@ gantt
         RSView Enterprise : 2005, 2012
         Factory Talk View SE :2012, until 2025
         FactoryTalk Optix    : 2022, until 2025
+        ProcessLogix (Plantscape) : processlogix, 1995, 2005
     section Citect Technologies
         %%(https://en.wikipedia.org/wiki/Citect)
         CitectSCADA :c1, 1973, 2006
@@ -52,8 +53,11 @@ gantt
         AVEVA Enterprise : after oasys_se, until 2025
     section Honeywell
         %%(Estimates)
+        Honeywell TDC TPS : tps, 1980, 2005
         PlantScape :plantscape, 1995, 2005
         Experion PKS: after plantscape, until 2025
+        %%(https://www.automationworld.com/products/software/article/13299917/product-honeywell-launches-experion-ls)
+        Experion LS: 2009, until 2025
     section Ipesoft
         %%(https://www.reddit.com/r/SCADA/comments/1jwldin/development_of_scada_systems/)
         %%(Modula2 5 years, Ada)
@@ -136,11 +140,13 @@ gantt
         ControlMaestro : 2008, until 2025
     section Verano
         RTAP : rtap, 1996, 2007
-    section Industrial Defender
+    section Industrial Defender 
         RTAP : after rtap, until 2025
     section ARC Group
+        %%(https://www.pcvue.com/about-us/arc-group/)
         PcVue : pcvue, 1984, until 2025
     section Codra
+        %%(https://www.linkedin.com/showcase/codra-panorama-platform/about/)
         Panorama E2 : panorama, 1986, until 2025   
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
