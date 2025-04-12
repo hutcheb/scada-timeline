@@ -43,7 +43,6 @@ gantt
         %%(Don't have dates for Intouch)
         AVEVA Intouch HMI :after s2, until 2025
         %%(https://github.com/hutcheb/scada-timeline/issues/1)
-        
         Geo SCADA Expert : after clearscada, until 2025
         AVEVA Enterprise : after oasys_se, until 2025
     section Honeywell
@@ -76,6 +75,13 @@ gantt
         %%(https://en.wikipedia.org/wiki/Aspen_Technology)
         AspenTech OSI Monarch : after osi_monach, until 2025
     section Siemens
+        %%(https://www.renewableenergyworld.com/energy-business/siemens-power-transmission-and-distribution-merges-telegyr-systems-business/)
+        %%(No Start Date)
+        Telegyr : telegyr, 1990,2001
+        %%(No End Date)
+        Spectrum PowerCC : powercc, after telegyr, 2010
+        %%(No Start and End Date)
+        Spectrum PowerTG : after powercc, until 2025
         FactoryLink : after factorylink, 2009
         %%(https://en.wikipedia.org/wiki/WinCC)
         WinCC :siemens1, 1996, until 2025
