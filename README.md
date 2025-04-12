@@ -108,6 +108,9 @@ gantt
     section Yokogawa 
         %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
         FAST/TOOLS : 1978, until 2025
+    section MyScada 
+        %%(https://www.myscada.org/?gad_source=1&gclid=CjwKCAjw--K_BhB5EiwAuwYoyt0NUs6PUtTnmHe5BiQ-LWvguB-_bO55AFn8DI5Yvm9XYK23LpdgcBoCVIUQAvD_BwE)
+        MySCADA : 2005, until 2025
     section Weatherford
         %%(https://www.weatherford.com/products-and-services/production-and-intervention/production-4-0/iot-scada-platform/)
         %%(No idea)
