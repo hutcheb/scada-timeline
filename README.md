@@ -103,8 +103,8 @@ gantt
         DeltaV : 1990, 30y
         %%(Estimate)
         Movicon Next : 2012, until 2025
-        %%(No Start and End Dates)
-        Ovation : 2020, until 2025
+        %%(https://www.reddit.com/r/SCADA/comments/1jwldin/comment/mmr7ire/?context=3)
+        Ovation : 1996, until 2025
     section Yokogawa 
         %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
         FAST/TOOLS : fasttools, 1978, 2021
@@ -132,11 +132,15 @@ gantt
         Wizcon  : 1980, 2008    
         %%(https://elutions-controlmaestro.com/ourcompany/)
         ControlMaestro : 2008, until 2025
+    section Verano
+        RTAP : rtap, 1996, 2007
+    section Industrial Defender
+        RTAP : after rtap, until 2025    
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
-        %%(https://en.wikipedia.org/wiki/TANGO)
-        TANGO : tango, 2001, until 2025
+        %%(https://www.tango-controls.org/about-us/#History)
+        TANGO Controls : tango, 1999, until 2025
         %%(https://github.com/RapidScada/scada/graphs/code-frequency)
         RapidSCADA : rapidscada, 2014, until 2025
         %%(https://github.com/SCADA-LTS/Scada-LTS/graphs/code-frequency)
