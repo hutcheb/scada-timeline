@@ -69,6 +69,12 @@ gantt
     section UGS Corporation
         %%(https://drivesncontrols.com/siemens-ends-development-of-factorylink/)
         FactoryLink : factorylink, 1978, 2007
+    section Open Systems International
+        %%(https://en.wikipedia.org/wiki/Open_Systems_International)
+        OSI Monarch : osi_monach, 1970, 2022
+    section AspenTech
+        %%(https://en.wikipedia.org/wiki/Aspen_Technology)
+        AspenTech OSI Monarch : after osi_monach, until 2025
     section Siemens
         FactoryLink : after factorylink, 2009
         %%(https://en.wikipedia.org/wiki/WinCC)
