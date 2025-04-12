@@ -153,11 +153,12 @@ gantt
     section Survalent
         %%(https://www.survalent.com/our-promise/)
         Survalent SCADA : panorama, 1983, until 2025  
-        
     section Quindar Electronics
         %%(https://www.qeiinc.com/timeline/quindar-is-founded/)
         Quindett III : 1969, 1980
     section QEI
+        %%(estimates)
+        QEI SCADA : 1980, 2019
         %%(https://www.utilitydive.com/press-release/20190701-qei-releases-qscada-windows-based-scada/)
         QSCADA : 2019, until 2025
     section Fultek
