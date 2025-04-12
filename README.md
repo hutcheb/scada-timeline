@@ -110,6 +110,9 @@ gantt
         WEB : web, 1988, 1997
         Visual Tag System : vts, after web, 2007
         VTScada : after vts, until 2025
+    section Elipse Software
+        %%(https://www.elipse.com.br/en/empresa/) 
+        Elipse E3  : 1986, until 2025
     section eLynx Technologies
         %%(https://www.elynxtech.com/company/about) 
         eLynx  : 2000, until 2025
@@ -118,7 +121,6 @@ gantt
         Wizcon  : 1980, 2008    
         %%(https://elutions-controlmaestro.com/ourcompany/)
         ControlMaestro : 2008, until 2025
-    
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
