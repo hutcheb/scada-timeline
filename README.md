@@ -154,6 +154,15 @@ gantt
         %%(https://www.survalent.com/our-promise/)
         Survalent SCADA : panorama, 1983, until 2025  
         
+    section Quindar Electronics
+        %%(https://www.qeiinc.com/timeline/quindar-is-founded/)
+        Quindett III : 1969, 1980
+    section QEI
+        %%(https://www.utilitydive.com/press-release/20190701-qei-releases-qscada-windows-based-scada/)
+        QSCADA : 2019, until 2025
+    section Fultek
+        %%(https://www.fultek.com.tr/en/about/)
+        WinTr : wintr, 2006, until 2025
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
