@@ -202,7 +202,7 @@ gantt
 ```
 
 ## Status
-I have provided references for most of them, some of the Yokogawa and Emerson stuff I wasn't able to find any information on.
+
 The wiki references were easy, ideally there would be proper references from each company.
 
 ## Contribution
