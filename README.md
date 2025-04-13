@@ -21,6 +21,8 @@ gantt
     section Invensys plc
         %%(https://en.wikipedia.org/wiki/Wonderware)
         Wonderware :s2, 1986, 2014
+        %%(https://www.controleng.com/infusion-scada-2-0-targets-functionality-and-security-for-remote-operations/)
+        InFusion SCADA : 2010, 2015
     section Metso automation
         %%(http://ains.etf.rs/Telvent.pdf)
         %%(No Start Date)
@@ -166,7 +168,8 @@ gantt
         WinTr : wintr, 2006, until 2025
     section  Leeds & Northrup
         %%(Need to confirm)
-        Conitel : conitel, 1960, 1980
+        %%(http://www.ece.iit.edu/~flueck/chicago_pes/2004/anb0309.html)
+        ConitCONITEL-2000l : conitel, 1960, 1980
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
