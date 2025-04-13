@@ -23,6 +23,8 @@ gantt
         Wonderware :s2, 1986, 2014
         %%(https://www.controleng.com/infusion-scada-2-0-targets-functionality-and-security-for-remote-operations/)
         InFusion SCADA : 2010, 2015
+        %%(https://drivesncontrols.com/invensys-buys-indusoft-to-offer-largest-range-of-automation-software/)
+        Indusoft : indusoft_invensys, after indusoft, 2014
     section Metso automation
         %%(http://ains.etf.rs/Telvent.pdf)
         %%(No Start Date)
@@ -39,12 +41,17 @@ gantt
     section 7 technologies
         %%(No Start and End Dates)
         IGSS : igss, 2001, 2011
+    section Indusoft
+        %%(https://www.i-need.de/?Produkt=15603)
+        Indusoft : indusoft, 1997, 2013
     section Schneider Electric
         CitectSCADA : se_citect, after c1, 2022
         Oasys :oasys_se, after oasys_telvent, 2022
         ClearSCADA :clearscada, after scx6, 2018
         %%(No Start and End Dates)
         IGSS : after igss, until 2025
+        %%(https://www.se.com/ww/en/brands/invensys/invensys.jsp)
+        Indusoft : indusoft_se, after indusoft_invensys, 2021
     section AVEVA
         PlantSCADA : after se_citect, until 2025
         System Platform :after s2, until 2025
@@ -53,6 +60,8 @@ gantt
         %%(https://github.com/hutcheb/scada-timeline/issues/1)
         Geo SCADA Expert : after clearscada, until 2025
         AVEVA Enterprise : after oasys_se, until 2025
+        %%(https://www.aveva.com/en/perspectives/blog/indusoft-web-studio-is-now-aveva-edge/)
+        AVEVA Edge : aveva_edge, after indusoft_se, until 2025
     section Honeywell
         %%(Estimates)
         Honeywell TDC TPS : tps, 1980, 2005
@@ -170,6 +179,10 @@ gantt
         %%(Need to confirm)
         %%(http://www.ece.iit.edu/~flueck/chicago_pes/2004/anb0309.html)
         CONITEL-2000 : conitel, 1960, 1980
+    section Afcon Software Solutions
+        %%(https://afconsws.com/news/end-of-support-declared-for-p-cim-software/)
+        P-CIM : pcim, 1990, 2010
+        Pulse : pulse, after pcim, until 2025
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
