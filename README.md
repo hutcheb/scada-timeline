@@ -169,7 +169,7 @@ gantt
     section  Leeds & Northrup
         %%(Need to confirm)
         %%(http://www.ece.iit.edu/~flueck/chicago_pes/2004/anb0309.html)
-        CONITEL-2000l : conitel, 1960, 1980
+        CONITEL-2000 : conitel, 1960, 1980
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
