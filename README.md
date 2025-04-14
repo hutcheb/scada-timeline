@@ -34,7 +34,7 @@ gantt
         Oasys :oasys_telvent, after oasys, 2011
     section Serck Controls
         %(https://www.se.com/uk/en/about-us/company-profile/brands/serck-controls.jsp)
-        SCX6 : scx6_serck, 1961, 2002
+        SCX5 : scx6_serck, 1961, 2002
     section SCADAGroup
         %(https://www.se.com/uk/en/about-us/company-profile/brands/serck-controls.jsp)
         SCX6 : scx6, after scx6_serck, 2010
