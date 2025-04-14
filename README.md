@@ -92,10 +92,7 @@ gantt
         FactoryLink : factorylink, 1978, 2007
     section Open Systems International
         %%(https://en.wikipedia.org/wiki/Open_Systems_International)
-        OSI Monarch : osi_monach, 1970, 2022
-    section AspenTech
-        %%(https://en.wikipedia.org/wiki/Aspen_Technology)
-        AspenTech OSI Monarch : after osi_monach, until 2025
+        OSI Monarch : osi_monach, 1970, 2020
     section ETM
         PVSS : pvss, 1985, 2007
     section Siemens
@@ -124,6 +121,8 @@ gantt
         Movicon Next : 2012, until 2025
         %%(https://www.reddit.com/r/SCADA/comments/1jwldin/comment/mmr7ire/?context=3)
         Ovation : 1996, until 2025
+        %%(https://en.wikipedia.org/wiki/Aspen_Technology)
+        AspenTech OSI Monarch : after osi_monach, until 2025
     section Yokogawa 
         %%(https://www.yokogawa.com/au/solutions/products-and-services/lifecycle-services/scada-as-a-service/)
         FAST/TOOLS : fasttools, 1978, 2021
