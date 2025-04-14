@@ -109,12 +109,21 @@ gantt
         WinCC OA :winccoa, after pvss, until 2025
     section Intellution
         %%(https://de.wikipedia.org/wiki/Proficy_iFIX)
-        iFix : intellutionfix, 1984, 2002
+        %%(https://www.servitecno.it/en/storia-e-curiosita-su-ifix-passando-da-fix-dmacs-e-bos/)
+        %%(https://www.servitecno.it/en/un-tuffo-nel-passato-40-anni-di-ifix/)
+        Fix 1.0 : the_fix, 1983, 1989
+        Fix DMACS : fix_dmacs, after the_fix, 1993
+        Fix BOS : fix_bos, after fix_dmacs, 1995
+        Fix Hawaii/FIX32 : fix_32, after fix_bos, 1997
     section GE
-        iFix : after intellutionfix, until 2025
+        %%(https://www.wwdmag.com/home/news/10906764/ge-fanuc-automation-to-acquire-intellution-from-emerson)
+        %%(https://www.controleng.com/ge-fanuc-buying-intellution-from-emerson-2/)
+        iFix : after emerson_ifix, until 2025
         %%(https://en.wikipedia.org/wiki/GE_Digital)
         Cimplicity :cimplicity, 1995, until 2025
     section Emerson
+        %%(https://mergr.com/transaction/emerson-electric-acquires-intellution)
+        iFix : emerson_ifix, after fix_32, 2002
         %%(No idea)
         DeltaV : 1990, 30y
         %%(Estimate)
