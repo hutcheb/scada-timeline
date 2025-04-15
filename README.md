@@ -191,6 +191,13 @@ gantt
         %%(https://afconsws.com/news/end-of-support-declared-for-p-cim-software/)
         P-CIM : pcim, 1990, 2010
         Pulse : pulse, after pcim, until 2025
+    section Ilex Systems
+        %%(https://www.cisa.gov/news-events/ics-advisories/icsa-12-271-01)
+        EOSCADA : eoscada, 1982, 1999
+    section C3-Ilex
+        %%(https://www.electricnet.com/doc/c3-ilex-llc-0001)
+        %%(Estimate)
+        EOSCADA : eoscada_c3, after eoscada, 2012
     section Open Source
         %%(https://en.wikipedia.org/wiki/EPICS)
         EPICS : epics, 1994, until 2025
