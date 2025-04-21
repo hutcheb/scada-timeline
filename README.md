@@ -87,6 +87,8 @@ gantt
         Genesis :genesis, 1986, 2011
     section Mitsubishi
         Genesis :after genesis, until 2025
+    section Phoenix Contact:
+        Visu+ : visu, 2000, until 2025
     section UGS Corporation
         %%(https://drivesncontrols.com/siemens-ends-development-of-factorylink/)
         FactoryLink : factorylink, 1978, 2007
